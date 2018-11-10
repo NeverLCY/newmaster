@@ -1,0 +1,12 @@
+clone克隆远程仓库到本地
+add添加到暂存区
+merge 合并到当前分区
+checkout转换分支
+commit提交到版本库
+remote add关联远程仓库
+remove查看关联仓库
+fetch抓取目标分支到本地
+push把本地分支推送到远程仓库
+pull抓取并合并到当前
+stash隐藏当前工作
+stash apply恢复但不删除 stash drop删除stash
